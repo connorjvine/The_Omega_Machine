@@ -1,6 +1,6 @@
 THE OMEGA MACHINE
 
-This project was created for Interactive Spaces for the Persona assignment
+This project was created for Interactive Spaces for the Persona assignment by Connor J Vine
 
 The project is an audio-based interactive experience where the player chooses what the character says in response to the antagonist.
 
